@@ -1,10 +1,13 @@
-.main-header {
+#header {
+  background: #4c8f77;
+	color: white;
+  font-family: Arial;
+  height: auto;
+  padding: 25px 25px;
   text-align: center;
 }
+
 body {
-    background: lightyellow;
-    font: 18px Arial, sans-serif;
-}
-h1 {
-    color: orange;
+  background: lightyellow;
+  font: 18px Arial, sans-serif;
 }
